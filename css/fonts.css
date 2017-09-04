@@ -1,0 +1,30 @@
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+			 url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "OpenCons";
+	src: url("../fonts/Open_Sans/OpenSans-CondBold.eot");
+	src: url("../fonts/Open_Sans/OpenSans-CondBold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Open_Sans/OpenSans-CondBold.woff") format("woff"),
+			 url("../fonts/Open_Sans/OpenSans-CondBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: "OpenReg";
+	src: url("../fonts/Open_Sans/OpenSans-Regular.eot");
+	src: url("../fonts/Open_Sans/OpenSans-Regular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/Open_Sans/OpenSans-Regular.woff") format("woff"),
+			 url("../fonts/Open_Sans/OpenSans-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
